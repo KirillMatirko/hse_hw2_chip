@@ -40,5 +40,5 @@
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_venn1.jpg)
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_venn2.jpg)
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_venn1.jpg)
-![width=500](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_venn2.jpg)
+![width=20](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_venn2.jpg)
 
