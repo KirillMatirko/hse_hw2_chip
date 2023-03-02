@@ -39,10 +39,14 @@
 
 ### 3. Диаграммы Венна
 
-Во-первых, число пересечений небольшое, потому что референсный файл не отфильтрован и содержит гораздо больше пиков. Во-вторых, число пересечений зависит от порядка, потому что в одном файле могут быть пики, которые попадают на один и тот же пик другого файла (поэтому в первом случае число пересечений будет больше, чем во втором)
+Во-первых, число пересечений небольшое, потому что референсный файл не отфильтрован и содержит гораздо больше пиков. Во-вторых, число пересечений зависит от порядка, потому что в одном файле могут быть пики, которые попадают на один и тот же пик другого файла (поэтому в первом случае число пересечений будет больше, чем во втором).
 
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_venn1.jpg)
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_venn2.jpg)
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_venn1.jpg)
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_venn2.jpg)
 
+### 4. Бонусная часть, ngs-plot
+
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF181JZF_ngs_plot.png)
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF264VGR_ngs_plot.png)
