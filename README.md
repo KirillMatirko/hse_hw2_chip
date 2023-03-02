@@ -48,6 +48,5 @@
 
 ### 4. Бонусная часть, ngs-plot
 
-![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF181JZF_ngs_plot.png)
-![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF264VGR_ngs_plot.png)
 <img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF181JZF_ngs_plot.png" width="250" height="600">
+<img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF264VGR_ngs_plot.png" width="250" height="600">
