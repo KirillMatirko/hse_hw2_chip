@@ -34,3 +34,11 @@
 | ENCFF751QVC | 39913402 | 4143396 (10.38%) | 1651123 (4.14%) | 34118883 (85.48%) |
 | ENCFF087XFX_trimmed | 37402268 | 3330025 (8.90%) | 1501553 (4.01%) | 32570690 (87.08%) |
 | ENCFF902MPL | 38682658 | 5290786 (13.68%) | 1719623 (4.45%) | 31672249 (81.88%) |
+
+### 3. Диаграммы Венна
+
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF751QVC_venn1.pdf)
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF751QVC_venn2.pdf)
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF087XFX_trimmed_venn1.pdf)
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF087XFX_trimmed_venn2.pdf)
+
