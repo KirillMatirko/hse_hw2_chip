@@ -11,11 +11,9 @@
 
 #### Вторая реплика ENCFF087XFX. Пришлось подрезать, потому что нехороший Per Base Sequaence Score (первая картинка). Подрезал как в примере из колаба.
 
-![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_per_base_seq_quality.png)
-![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_basic_stat.png)
-![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_per_base_seq_quality.png)
-![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_per_base_seq_content.png)
-![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_per_seq_gc_content.png)
+<img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_per_base_seq_quality.png" width="400" height="300">
+
+<img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_basic_stat.png" width="250" height="170"> <img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_per_base_seq_quality.png" width="400" height="300"> <img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_per_base_seq_content.png" width="400" height="300"> <img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_per_seq_gc_content.png" width="400" height="300"> 
 
 #### Контроль ENCFF902MPL (не пришлось подрезать).
 
