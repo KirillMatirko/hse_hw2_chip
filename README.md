@@ -3,7 +3,7 @@
 Ссылка на колаб: https://colab.research.google.com/drive/1IeNfboSjSjuAnO4kJHw-NHtT5wmqkB9-?usp=sharing
 
 
-Первая реплика ENCFF751QVC (не пришлось подрезать).
+#### Первая реплика ENCFF751QVC (не пришлось подрезать).
 
 
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_basic_stat.png)
@@ -11,13 +11,21 @@
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_per_base_seq_content.png)
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_per_seq_gc_content.png)
 
-Вторая реплика ENCFF087XFX. Пришлось подрезать, потому что нехороший Per Base Sequaence Score (первая картинка). Подрезал как в примере из колаба.
+#### Вторая реплика ENCFF087XFX. Пришлось подрезать, потому что нехороший Per Base Sequaence Score (первая картинка). Подрезал как в примере из колаба.
 
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_per_base_seq_quality.png)
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_basic_stat.png)
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_per_base_seq_quality.png)
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_per_base_seq_content.png)
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_per_seq_gc_content.png)
+
+#### Контроль ENCFF902MPL (не пришлось подрезать).
+
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF902MPL_basic_stat.png)
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF902MPL_per_base_seq_quality.png)
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF902MPL_per_base_seq_content.png)
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF902MPL_per_seq_gc_content.png)
+
 
 
 
