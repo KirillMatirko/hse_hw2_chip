@@ -2,9 +2,9 @@
 
 Ссылка на колаб: https://colab.research.google.com/drive/1IeNfboSjSjuAnO4kJHw-NHtT5wmqkB9-?usp=sharing
 
+### 1. Отчёты FASTQC
 
 #### Первая реплика ENCFF751QVC (не пришлось подрезать).
-
 
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_basic_stat.png)
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_per_base_seq_quality.png)
