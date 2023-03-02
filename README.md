@@ -50,3 +50,4 @@
 
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF181JZF_ngs_plot.png)
 ![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF264VGR_ngs_plot.png)
+<img src="(https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF181JZF_ngs_plot.png" width="400" height="790">
