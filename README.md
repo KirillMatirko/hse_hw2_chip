@@ -37,8 +37,8 @@
 
 ### 3. Диаграммы Венна
 
-![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF751QVC_venn1.pdf)
-![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF751QVC_venn2.pdf)
-![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF087XFX_trimmed_venn1.pdf)
-![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF087XFX_trimmed_venn2.pdf)
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_venn1.png)
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_venn2.png)
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_venn1.png)
+![](https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_venn2.png)
 
