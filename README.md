@@ -46,6 +46,8 @@
 
 ### 4. Бонусная часть, ngs-plot
 
+Как видим, результат для нашей гистоновой метки (H3K4me3) согласуется с картинкой из статьи.
+
 <img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF181JZF_ngs_plot.png" width="250" height="600"> <img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/data/ENCFF264VGR_ngs_plot.png" width="250" height="600">
 
 <img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/expected_result.png" width="600" height="200">
