@@ -40,8 +40,8 @@
 
 Во-первых, число пересечений небольшое, потому что референсный файл не отфильтрован и содержит гораздо больше пиков. Во-вторых, число пересечений зависит от порядка, потому что в одном файле могут быть пики, которые попадают на один и тот же пик другого файла (поэтому в первом случае число пересечений будет больше, чем во втором).
 
-<img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_venn1.jpg" width="500" height="400"> <img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_venn2.jpg" width="500" height="400">
-<img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_venn1.jpg" width="500" height="400"> <img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_venn2.jpg" width="500" height="400">
+<img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_venn1.jpg" width="550" height="400"> <img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF751QVC_venn2.jpg" width="550" height="400">
+<img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_venn1.jpg" width="550" height="400"> <img src="https://github.com/KirillMatirko/hse_hw2_chip/blob/main/pics/ENCFF087XFX_trimmed_venn2.jpg" width="550" height="400">
 
 
 ### 4. Бонусная часть, ngs-plot
