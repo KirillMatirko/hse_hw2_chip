@@ -3,6 +3,24 @@
 Ссылка на колаб: https://colab.research.google.com/drive/1IeNfboSjSjuAnO4kJHw-NHtT5wmqkB9-?usp=sharing
 
 
+Первая реплика ENCFF751QVC (не пришлось подрезать).
+
+
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/ENCFF751QVC_basic_stat.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/ENCFF751QVC_per_base_seq_quality.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/ENCFF751QVC_per_base_seq_content.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/ENCFF751QVC_per_seq_gc_content.png)
+
+Вторая реплика ENCFF087XFX. Пришлось подрезать, потому что нехороший Per Base Sequaence Score (первая картинка). Подрезал как в примере из колаба.
+
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/ENCFF087XFX_per_base_seq_quality.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/ENCFF087XFX_trimmed_basic_stat.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/ENCFF087XFX_trimmed_per_base_seq_quality.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/ENCFF087XFX_trimmed_per_base_seq_content.png)
+![](https://github.com/KirillMatirko/hse22_hw4/blob/main/pics/ENCFF087XFX_trimmed_per_seq_gc_content.png)
+
+
+
 | Образец | Общее число чтений | Кол-во и процент выровненных чтений (уникально или нет) | Кол-во и процент уникально выровненных чтений | Кол-во и процент невыровненных чтений |
 |:----------:|:-------:|:----------------:|:----------------:|:----------------:|
 | ENCFF751QVC | 39913402 | 4143396 (10.38%) | 1651123 (4.14%) | 34118883 (85.48%) |
